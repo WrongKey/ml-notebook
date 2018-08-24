@@ -13,8 +13,9 @@ seaborn = "*"
 scikit-learn = "*"
 keras = "*"
 jupyter = "*"
+spacy = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
